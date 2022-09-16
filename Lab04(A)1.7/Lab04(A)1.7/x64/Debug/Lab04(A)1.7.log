@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\etiba\Desktop\CÉGEP\Session 1\Visual Studio\Lab04(A)1.7\Lab04(A)1.7\main.cpp(15,6): warning C4101: 'rang' : variable locale non référencée
+C:\Users\etiba\Desktop\CÉGEP\Session 1\Visual Studio\Lab04(A)1.7\Lab04(A)1.7\main.cpp(17,6): warning C4101: 'spaces' : variable locale non référencée
+C:\Users\etiba\Desktop\CÉGEP\Session 1\Visual Studio\Lab04(A)1.7\Lab04(A)1.7\main.cpp(16,6): warning C4101: 'stars' : variable locale non référencée
+  Lab04(A)1.7.vcxproj -> C:\Users\etiba\Desktop\CÉGEP\Session 1\Visual Studio\Lab04(A)1.7\x64\Debug\Lab04(A)1.7.exe
