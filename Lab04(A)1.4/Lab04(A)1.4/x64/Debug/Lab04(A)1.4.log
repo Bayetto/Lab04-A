@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\etiba\Desktop\CÉGEP\Session 1\Visual Studio\Lab04(A)1.4\Lab04(A)1.4\main.cpp(15,6): warning C4101: 'rang' : variable locale non référencée
+C:\Users\etiba\Desktop\CÉGEP\Session 1\Visual Studio\Lab04(A)1.4\Lab04(A)1.4\main.cpp(16,6): warning C4101: 'colone' : variable locale non référencée
+  LINK : C:\Users\etiba\Desktop\CÉGEP\Session 1\Visual Studio\Lab04(A)1.4\x64\Debug\Lab04(A)1.4.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+  Lab04(A)1.4.vcxproj -> C:\Users\etiba\Desktop\CÉGEP\Session 1\Visual Studio\Lab04(A)1.4\x64\Debug\Lab04(A)1.4.exe

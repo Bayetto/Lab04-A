@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\etiba\Desktop\CÉGEP\Session 1\Visual Studio\Lab04(A)1.1\Lab04(A)1.1\main.cpp(16,6): warning C4101: 'rang' : variable locale non référencée
+C:\Users\etiba\Desktop\CÉGEP\Session 1\Visual Studio\Lab04(A)1.1\Lab04(A)1.1\main.cpp(17,6): warning C4101: 'colone' : variable locale non référencée
+  Lab04(A)1.1.vcxproj -> C:\Users\etiba\Desktop\CÉGEP\Session 1\Visual Studio\Lab04(A)1.1\x64\Debug\Lab04(A)1.1.exe
